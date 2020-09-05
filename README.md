@@ -33,13 +33,13 @@ Some of the functionalities/user interface from the app are shown in the followi
 
 * Product section
 
-![alt-text](https://github.com/GerardoSant/GShop/blob/master/preview/product-section.gif)
+<kbd><img src="https://github.com/GerardoSant/GShop/blob/master/preview/product-section.gif"/></kbd>
 
  <br>
 
 * Product checkout
 
-![alt-text](https://github.com/GerardoSant/GShop/blob/master/preview/product-checkout.gif)
+<kbd><img src="https://github.com/GerardoSant/GShop/blob/master/preview/product-checkout.gif"/></kbd>
 
 
 ## Acknowledgments
